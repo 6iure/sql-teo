@@ -9,6 +9,6 @@ SELECT product_category_name,
 
 FROM tb_products
 
-GROUP BY product_category_name
+WHERE product_description_lenght > 100
 
-HAVING count(*) > 100
+GROUP BY product_category_name
