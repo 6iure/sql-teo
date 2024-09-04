@@ -1,8 +1,8 @@
---*fazendo um join entra as tabelas de venda e produtos,
+--*fazendo um join entre as tabelas de venda e produtos,
 --*tendo como referencia a tabela de vendas
 --*trazendo apenas as colunas selecionadas abaixo
 --*somando o preco dos itens
---*e contando o total de itens vendidos
+--*contando o total de itens vendidos
 --*e contando os pedidos considerando os repetidos
 --*agrupando pelo nome da categoria 
 --*ordenando pelas mais vendidas 
